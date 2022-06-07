@@ -23,4 +23,5 @@ https://github.com/becored/QoK_TA/releases/tag/v1.0
 Download "QoK_TimeAttack_v1.0.ips" from Assets.  
   
 ## Credits  
+- Lichtwirbelwind for motivation of this hack  
 - Puresabe for macro ASM  
