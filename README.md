@@ -20,7 +20,7 @@ Patch "QoK_TimeAttack_v1.0.ips" to a vanilla Ki no Bouken (The Quest of Ki) rom.
   
 ## Patch Download
 https://github.com/becored/QoK_TA/releases/tag/v1.0  
-Download "QoK_TimeAttack_v1.0.ips" from Assets.  
+Download "QoK_TA_Practice_Edition_ver1.0.zip" from Assets.  
   
 ## Credits  
 - Lichtwirbelwind for motivation of this hack  
