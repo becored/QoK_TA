@@ -4,7 +4,7 @@ This is a practice rom hack for Kai no Bouken (The Quest of Ki) speedrun.
 ![pic03](images/pic03.png) ![pic04](images/pic04.png)  
   
 ## How to play
-Patch "QoK_TimeAttack_v1.0.ips" to a vanilla Kai no Bouken (The Quest of Ki) rom.  
+Patch "QoK_TimeAttack_v1.0.ips" to a vanilla Ki no Bouken (The Quest of Ki) rom.  
 
 ## Features  
 - Round Select (debug mode) is enabled.  
