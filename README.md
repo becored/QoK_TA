@@ -1,4 +1,4 @@
-# Ki no Bouken (The Quest of Ki): Time Attack Practice Edition Rom Hack
+# Ki no Bouken (The Quest of Ki): Time Attack Practice Edition  
 This is a practice rom hack for Kai no Bouken (The Quest of Ki) speedrun.  
 ![pic01](images/pic01.png) ![pic02](images/pic02.png)  
 ![pic03](images/pic03.png) ![pic04](images/pic04.png)  
