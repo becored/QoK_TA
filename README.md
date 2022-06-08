@@ -4,7 +4,7 @@ This is a practice rom hack for カイの冒険 (The Quest of Ki) speedrun.
 ![pic03](images/pic03.png) ![pic04](images/pic04.png)  
   
 ## How to play
-Patch "QoK_TimeAttack_v1.0.ips" to a vanilla Ki no Bouken (The Quest of Ki) rom.  
+Patch "QoK_TimeAttack_v1.1.ips" to a vanilla Ki no Bouken (The Quest of Ki) rom.  
 
 ## Features  
 - Round Select (debug mode) is enabled.  
@@ -19,8 +19,8 @@ Patch "QoK_TimeAttack_v1.0.ips" to a vanilla Ki no Bouken (The Quest of Ki) rom.
 - Infinite lives, game doesn't remove the enemy by hitting.  
   
 ## Patch Download
-https://github.com/becored/QoK_TA/releases/tag/v1.0  
-Download "QoK_TA_Practice_Edition_ver1.0.zip" from Assets.  
+https://github.com/becored/QoK_TA/releases/tag/v1.1  
+Download "QoK_TA_Practice_Edition_ver1.1.zip" from Assets.  
   
 ## Credits  
 - Lichtwirbelwind for motivation of this hack  
