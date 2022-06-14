@@ -352,6 +352,7 @@ loc_DD85:
 LevelInit:
 	JSR $C698				; Œ³ˆ—
 	LDA #0
+	STA <$59
 	STA <$D0
 	STA <$D1
 	STA <$D2
